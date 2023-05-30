@@ -2,11 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1150&lines=HELLO,+MY+NAME+is+Thalles+Eduardo;I'm+20+years+old;I+am+from+Brazil,+GO;Study+science+of+computer+at+institute+federal+goiano;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thallestw135&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Thalles Eduardo github stats" /> 
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallestw135&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thallestw135&show_icons=true&theme=radical&title_color=ff2401&text_color=FFFFFF&icon_color=ff2401" alt="Thalles Eduardo    github stats" /> 
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallestw135&layout=demo&theme=radical&card_width=400" alt="Thalles Eduardo github stats"/>
 </div>
+
+
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thallestw135&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
