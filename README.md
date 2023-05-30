@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thallestw135&show_icons=true&theme=radical&title_color=ff2401&text_color=FFFFFF&icon_color=ff2401" alt="Thalles Eduardo    github stats" /> 
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallestw135&layout=demo&theme=radical&card_width=400" alt="Thalles Eduardo github stats"/>
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallestw135&layout=demo&theme=radical&card_width=400&title_color=ff2401" alt="Thalles Eduardo github stats"/>
 </div>
 
 
